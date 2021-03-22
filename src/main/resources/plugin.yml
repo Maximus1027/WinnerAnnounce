@@ -1,0 +1,9 @@
+name: WinnerAnnounce
+main: me.maximus1027.winnerannounce.WinnerAnnounce
+version: 1.0
+
+commands:
+  winnerannounce:
+    aliases:
+      - wa
+    description: Manually announce a player who won an event.
